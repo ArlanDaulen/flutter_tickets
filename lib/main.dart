@@ -219,7 +219,7 @@ Widget _bottomDetail(){
         ListTile(
           tileColor: Colors.grey,
           title: Center(
-            child: Text('Tuesday \n   19 °F'),
+            child: Text('Tuesday  \n   19 °F'),
           ),
         ),
         ListTile(
